@@ -1,4 +1,4 @@
-import 'package:architecture_utils/basic_usecase.dart';
+import 'package:architecture_utils/architecture_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
